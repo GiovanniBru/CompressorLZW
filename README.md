@@ -46,7 +46,7 @@
 <h2>Conclusão</h2> 
 <p>O algoritmo criado comprime e descomprime os arquivos, mas com tempo de execução muito elevado, sendo maior que uma hora para contextos grandes. O algoritmo se mostrou bastante eficaz para o texto, comprimindo independentemente do tamanho do contexto. Porém, para o vídeo, a compressão não foi boa. Entretanto o algoritmo se mostrou bastante eficaz no quesito descompressão, pois, até mesmo para o vídeo e outras imagens testadas, o arquivo volta a ser exatamente igual ao que era antes.</p> 
 
-<h2>Referências</p> 
+<h2>Referências</h2> 
 <p>1 -  GEEKS FOR GEEKS. LZW (Lempel-Ziv-Welch) Compression technique. Disponível em: https://www.geeksforgeeks.org/lzw-lempel-ziv-welch-compression-technique/. Acesso em: 16 mai. 2021.</p>
 <p>2 -  DIGITAL SIGNAL PROCESSING GUIDE. LZW Compression. Disponível em: https://www.dspguide.com/ch27/5.html. Acesso em: 17 mai. 2021.</p>
 <p>3 - DELFTSTACK. Como Converter Int em Bytes em Python 2 e Python 3. Disponível em: https://www.delftstack.com/pt/howto/python/how-to-convert-int-to-bytes-in-python-2-and-python-3/. Acesso em: 17 mai. 2021.</p>
