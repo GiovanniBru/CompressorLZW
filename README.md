@@ -1,6 +1,9 @@
 <h1>Compressor e Descompressor usando algoritmo LZW</h1> 
 <p>&nbsp;&nbsp;&nbsp; Giovanni Bruno Travassos de Carvalho - 11506849</p>
+<p>&nbsp;&nbsp;&nbsp; Jordan Elias Rodrigues - 11516379 </p>
+<p>&nbsp;&nbsp;&nbsp; Kaio Moura dos Santos - 11506860 </p>
 <p><b>UFPB - Introdução à Teoria da Informação</b></p>
+<p><b>Professor: Derzu Omaia</b></p>
 <p>Este trabalho tem como objetivo implementar um compressor e descompressor utilizando o algoritmo LZW com dicionário de tamanho variável. O LZW é um algoritmo contextual (probabilidade de um símbolo é calculada de acordo com outros eventos) e adaptativo (probabilidade muda a cada símbolo) de codificação baseado em dicionário, cuja ideia principal é construir um dicionário de símbolos ou palavras conforme o texto ou a informações que vai sendo processado.</p>
 <p>Codificadores baseados em dicionários fazem a codificação sempre referenciando partes da mensagem que já aconteceram no passado. No início da codificação de um texto (ou imagem/vídeo), o dicionário inicial do LZW recebe os 256 caracteres da tabela ASCII, ou, no caso de imagem/vídeo, a quantidade de tons que compõem a paleta de cores (0 a 255).</p>
 
