@@ -56,3 +56,4 @@
 <p>4 - PYTHON.ORG. Built-in Types. Disponível em: https://docs.python.org/3/library/stdtypes.html. Acesso em: 18 mai. 2021.</p>
 <p>5 - PYTHON REFERENCE. Zfill. Disponível em: https://python-reference.readthedocs.io/en/latest/docs/str/zfill.html. Acesso em: 18 mai. 2021. </p>
 
+<p><b>Nota: 9,0</b></p>
